@@ -1,0 +1,25 @@
+img {
+    width: 400px;
+    height: 300px;
+}
+
+div {
+  text-align: center;  /*центрирует все внутри контейнера*/
+  border: 5px solid green;
+
+}
+
+button {
+    display: block;
+    color: red;
+    margin: 0 auto;
+}
+
+p {
+    color: green;
+}
+
+.text {
+    color: blue;
+    font-size: 30px;
+}
